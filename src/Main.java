@@ -4,7 +4,6 @@ public class Main {
 
         System.out.println("Sum: " + add(10, 20));
         System.out.println("Is 7 even? " + isEven(7));
-        System.out.println("Is 10 even? " + isEven(10));
         System.out.println("Largest number: " + findLargest(12, 25));
         System.out.println("5 factorial: " + factorial(5));
 
