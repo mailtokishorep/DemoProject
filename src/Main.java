@@ -10,6 +10,7 @@ public class Main {
 
         System.out.print("Prime numbers from 0 to 100: ");
         printPrimes(100);
+        printPrimes(200);
     }
 
     static void greet(String name) {
