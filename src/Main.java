@@ -12,6 +12,8 @@ public class Main {
         printPrimes(100);
         printPrimes(200);
         printPrimes(300);
+        printPrimes(400);
+
 
     }
 
